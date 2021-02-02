@@ -4,7 +4,7 @@ astunparse==1.6.3
 attrs==19.3.0
 backcall==0.2.0
 bayesian-optimization==1.2.0
-bleach==3.1.5
+bleach==3.3.0
 blinker==1.4
 boto3 @ file:///tmp/build/80754af9/boto3_1596429619850/work
 botocore @ file:///tmp/build/80754af9/botocore_1596109391930/work
