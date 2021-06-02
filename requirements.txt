@@ -119,7 +119,7 @@ threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.0.4
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
 traitlets==4.3.3
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==0.16.1
